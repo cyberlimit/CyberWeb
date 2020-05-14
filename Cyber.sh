@@ -5,7 +5,6 @@
 #MikirMakeOtakGblk
 #KontolKaloMauReedit/Recode 
 #Pm Gua Bangsat
-sleep (3)
 clear
 blue='\033[34;1m'
 green='\033[32;1m'  
